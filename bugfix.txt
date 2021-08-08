@@ -1,0 +1,2 @@
+line 1 in file 1 updated
+line 2 in file 2 fixed a bug here in line2
